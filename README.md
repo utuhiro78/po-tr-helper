@@ -33,6 +33,8 @@ It generates these files.
 
 ### 2. Translate messages with Chromium Translate
 
+- Video: http://linuxplayers.g1.xrea.com/images/po_tr_helper/po-tr-helper-chromium.webm
+
 Drop "dolphin_en.txt" to Chromium. Right-click and select "Translate to".
 
 Wait a second and scroll down the page to check if the translation is complete.
@@ -42,6 +44,8 @@ Press "Ctrl+A"  to select all translations. Right-click and select "Copy".
 Paste them to "dolphin_tr.txt".
 
 - [Google Translate](https://translate.google.com/) generates better translation, but is limited up to 5000 characters at once.
+
+  - Video: http://linuxplayers.g1.xrea.com/images/po_tr_helper/po-tr-helper-google.webm
 
 - ChatGPT or DeepL might generate better translation, but I am not a registered user.
 
